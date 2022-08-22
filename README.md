@@ -15,3 +15,5 @@ node server.js
 - Sends messages from the server and receives them on the client
 - Implements the broadcast pattern to send a single message to multiple clients
 - Implements custom message types
+
+![Chat Websocket App](https://youtu.be/jPuiwJJnafU)
