@@ -16,4 +16,4 @@ node server.js
 - Implements the broadcast pattern to send a single message to multiple clients
 - Implements custom message types
 
-[![Chat Websocket App Video](http://img.youtube.com/vi/jPuiwJJnafU/0.jpg)](http://www.youtube.com/watch?v=jPuiwJJnafU)
+![Chat Websocket App Video](http://www.youtube.com/watch?v=jPuiwJJnafU)
